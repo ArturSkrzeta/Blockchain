@@ -1,6 +1,10 @@
 <h2>Blockchain</h2>
 
-
+<h3>Intro</h3>
+<ul>
+  <li>Data structure that ensures data integrity with its security built-in mechanizms.</li>
+  <li></li>
+</ul>
 
 <h3>Notes</h3>
 <ul>
@@ -10,9 +14,10 @@
     - data stored inside a block depends on type of blockchain <br>
     - hash, as a fingerprint, is unique and identifies a block with all of its content - it's being calculated once block created <br>
     - changing something inside the block causes the block's hash to change (that detects any atttempts of changes to block) <br>
-    - hash of the previous block which creates a chain <br>
+    - hash of the previous block actually creates a chain <br>
     - having blocks chained in that way, it ensures security of the blockchain <br>
     - changing one block would make all of the following blocks in the chain invalid because of invalid 'has of previous block'
+    - changing one block way back in the chain it would affect all of the hashes of blocks going forward
   </li>
   <li>Additional security mechanism is the proof-of-work:
     <br>
