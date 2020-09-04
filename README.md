@@ -6,9 +6,9 @@ In progress...
   <li>Chain of blocks that contain information.</li>
   <li>Each block contains data, hash and hash of previous block.
     <br>
-    - data stored inside a block depends on type of blockchain
-    - has, as a fingerprint, is unique and identifies a block with all of its content - it's being calculated once block created
-    - changing something inside the block causes the block's hash to change (that detects try of changes to block)
+    - data stored inside a block depends on type of blockchain <br>
+    - has, as a fingerprint, is unique and identifies a block with all of its content - it's being calculated once block created <br>
+    - changing something inside the block causes the block's hash to change (that detects try of changes to block) <br>
     - 
   
   </li>
