@@ -4,6 +4,7 @@
 <ul>
   <li>Data structure that ensures data integrity with its security built-in mechanizms.</li>
   <li>Built-in mechanizms prevent users from arbitrarily change the data in it.</li>
+  <li>Bitcoin uses blockchain to store and verify transactions.</li>
 </ul>
 
 <h3>Notes</h3>
@@ -36,5 +37,3 @@
   <li>To make change to block you would need to change all of the blocks in the chain, recalculate the proof-of-work for each block and take control of min 50% of peer-to-peer network nodes. That sounds like impossible mission.</li>
   <li>Blockchain with security mechanizms stays stable and steady.</li> 
 </ul>
-
-
