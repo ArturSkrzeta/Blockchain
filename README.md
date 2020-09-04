@@ -10,7 +10,7 @@
 <h3>Python</h3>
 <ul>
   <li>Below example shows how following blocks depends on the preceding ones.</li>
-  <li>Small change on first block affects change of hashes of the blocks all the way through.</li>
+  <li>Small change on first block affects change of blocks hashes all the way through.</li>
   <br>
   <img src="images/blockchain.gif">
 </ul>
