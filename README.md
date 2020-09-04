@@ -7,6 +7,13 @@
   <li>Bitcoin uses blockchain to store and verify transactions.</li>
 </ul>
 
+<h3>Python</h3>
+<ul>
+  <li>Below example shows how following blocks depends on the preceding ones.</li>
+  <li>Small change on first block affects change of hashes of the blocks all the way through.</li>
+  <img src="images/blockchain.gif">
+</ul>
+
 <h3>Notes</h3>
 <ul>
   <li>Chain of blocks that contain information.</li>
