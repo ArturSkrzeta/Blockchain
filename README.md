@@ -23,10 +23,10 @@
   </li>
   <li>It's distributed which increases security level
     <br>
-    - is uses peer-to-peer network 
-    - when someone joins network he gets full copy of the blockchain - the node
-    - if there is an attempt to change the block it will be rejected by the rest of the nodes in the network
-    - the changes would be possible when affecting more than 50% of the network nodes at once which is very hard
+    - is uses peer-to-peer network <br>
+    - when someone joins network he gets full copy of the blockchain - the node <br>
+    - if there is an attempt to change the block it will be rejected by the rest of the nodes in the network <br>
+    - the changes would be possible when affecting more than 50% of the network nodes at once which is very hard <br>
   </li>
   <li>To make change to block you would need to change all of the blocks in the chain, recalculate the proof-of-work for each block and take control of min 50% of peer-to-peer network nodes. That sounds like impossible mission.</li>
   <li>Blockchain with security mechanizms stays stable and steady.</li> 
