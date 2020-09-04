@@ -3,7 +3,7 @@
 <h3>Intro</h3>
 <ul>
   <li>Data structure that ensures data integrity with its security built-in mechanizms.</li>
-  <li></li>
+  <li>Built-in mechanizms prevent users from arbitrarily change the data in it.</li>
 </ul>
 
 <h3>Notes</h3>
