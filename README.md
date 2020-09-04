@@ -13,11 +13,21 @@ In progress...
     - having blocks chained in that way, it ensures security of the blockchain <br>
     - changing one block would make all of the following blocks in the chain invalid because of invalid 'has of previous block'
   </li>
-  <li>Additional security mechanizm is the proof-of-work:
+  <li>Additional security mechanism is the proof-of-work:
     <br>
-    -  <br>
-    -
+    - recalculating new hashes can be performed very fast so it's not enough to keep blockchain secure <br>
+    - proof-of-work mechanism slows down the creation of new blocks <br>
+    - f.e. for bitcoin proof-of-work consumes 10 minutes to add new block to the chain <br>
+    - because of proof-of-work, changes to one block would require recalculating the proof-of-work for all of the following block within the chain <br>
   </li>
+  <li>It's distributed which increases security level
+    <br>
+    - is uses peer-to-peer network 
+    - when someone joins network he gets full copy of the blockchain - the node
+    - if there is an attempt to change the block it will be rejected by the rest of the nodes in the network
+    - the changes would be possible when affecting more than 50% of the network nodes at once which is very hard
+  </li>
+  <li>To make change to block you would need to change all of the blocks in the chain, recalculate the proof-of-work for each block and take control of min 50% of peer-to-peer network nodes. That sounds like impossible mission. That's why blockchain stays stable and steady.</li>
   <li>Perfect for keeping track of changes over time.</li> 
   <li></li>
 </ul>
