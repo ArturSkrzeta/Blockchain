@@ -1,5 +1,6 @@
 <h2>Blockchain</h2>
-In progress...
+
+
 
 <h3>Notes</h3>
 <ul>
@@ -27,9 +28,8 @@ In progress...
     - if there is an attempt to change the block it will be rejected by the rest of the nodes in the network
     - the changes would be possible when affecting more than 50% of the network nodes at once which is very hard
   </li>
-  <li>To make change to block you would need to change all of the blocks in the chain, recalculate the proof-of-work for each block and take control of min 50% of peer-to-peer network nodes. That sounds like impossible mission. That's why blockchain stays stable and steady.</li>
-  <li>Perfect for keeping track of changes over time.</li> 
-  <li></li>
+  <li>To make change to block you would need to change all of the blocks in the chain, recalculate the proof-of-work for each block and take control of min 50% of peer-to-peer network nodes. That sounds like impossible mission.</li>
+  <li>Blockchain with security mechanizms stays stable and steady.</li> 
 </ul>
 
 
