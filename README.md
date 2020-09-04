@@ -19,6 +19,7 @@
 <h3>Notes</h3>
 <ul>
   <li>Chain of blocks that contain information.</li>
+  <br>
   <li>Each block contains data, hash and hash of previous block.
     <br>
     - data stored inside a block depends on type of blockchain <br>
